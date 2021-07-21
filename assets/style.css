@@ -63,6 +63,15 @@ nav button {
     padding: 20px;
 }
 
+#g-small-img{
+    color: #4285f4;
+    font: 16px/16px roboto-regular,
+    arial,
+    sans-serif;
+    white-space: nowrap;
+    margin-left: 60%;
+}
+
 #findPage{
     font-size: 1rem;
     padding: 15px;
